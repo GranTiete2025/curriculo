@@ -1,0 +1,5 @@
+git config --global user.name gallojunior
+git config --global user.email gallojunior@gmail.com
+
+Abrir o terminal:
+Ctrl + '
